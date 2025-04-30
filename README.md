@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Juan 👋
 
-- 🎓 Soy Analista Programador Universitario y estudiante de Licenciatura en Sistemas en la Universidad Nacional de La Plata
+## 🎓 Soy Analista Programador Universitario y estudiante de Licenciatura en Sistemas en la Universidad Nacional de La Plata
 
 <!--
 **juanv4/juanv4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
